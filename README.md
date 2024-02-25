@@ -18,7 +18,7 @@
 
 #### Note:
 > &&, &&&, and & do not currently have implemented functionality to be ran at same time  
-> Wouldn't exactly make sense to run both && and &&&, but implementing functionality for & into both could be implemented
+> Wouldn't exactly make sense to run both && and &&&, but implementing functionality for & into both might be  
 
 #### Future Improvemenets / Add-ons 
 - Implementing piping and redirection operators  
